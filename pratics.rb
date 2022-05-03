@@ -1,4 +1,5 @@
 #!/usr/bin/env ruby
+#!/home/pro/
 
 class MegaGreeter
   attr_accessor :names
@@ -57,3 +58,5 @@ if __FILE__ == $0
   mg.say_hi
   mg.say_bye
 end
+
+#//next
